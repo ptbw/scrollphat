@@ -1,2 +1,2 @@
-# scrollphat
-Example of using the Pimoroni ScrollpHat with Micropython
+# Scroll pHat
+Example of using the Pimoroni Scroll pHat with Micropython
